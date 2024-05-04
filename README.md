@@ -4,7 +4,7 @@ In this machine learning project, I have collected the dataset from e National I
 Diabetes and Digestive and Kidney Diseases and We will be using Deep Learning Algorithms to make predictions on whether a person is suffering from Diabetics or not.
 
 
-## Python Programming Language
+## Technology Stack
 
 **Software** : Google Colab
 
