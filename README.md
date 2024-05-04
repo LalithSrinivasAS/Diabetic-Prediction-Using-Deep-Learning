@@ -60,7 +60,7 @@ disorders.
 
 ## Documentation
 
-[Documentation Google Drive Pdf Link](https://drive.google.com/file/d/1Z4MIfPh4dT5gM2kxHHcJVXFABW_nbilo/view?usp=sharing)
+[Documentation Google Drive Pdf Link](https://drive.google.com/file/d/1S0X-7vZKvsRk038kmoFPr5vSkgZrmXXz/view?usp=sharing)
 
 
 ## Features
